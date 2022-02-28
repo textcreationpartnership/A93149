@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly discourse concerning profane cursing and swearing, wherein is shewed the heinousness of those sins, and the necessity of private persons giving informations for the suppressing of them, pursuant to the late act of Parliament In a familiar conference between two plain persons. Made publick for the awakening of the consciences of common-swearers; and the vindication of our religious informers, who have been the instruments of the remarkable abatement of swearing; and for the encouragement of all good Christians, to joyn their endeavours with them for the entire suppressing it; and by giving informations to the magistrates against it, drunkenness, and prophanation of the Lord's Day.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93149</idno>
+            <idno type="STC">Wing S33A</idno>
+            <idno type="STC">ESTC R230178</idno>
+            <idno type="EEBO-CITATION">99895933</idno>
+            <idno type="PROQUEST">99895933</idno>
+            <idno type="VID">153530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153530)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2369:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly discourse concerning profane cursing and swearing, wherein is shewed the heinousness of those sins, and the necessity of private persons giving informations for the suppressing of them, pursuant to the late act of Parliament In a familiar conference between two plain persons. Made publick for the awakening of the consciences of common-swearers; and the vindication of our religious informers, who have been the instruments of the remarkable abatement of swearing; and for the encouragement of all good Christians, to joyn their endeavours with them for the entire suppressing it; and by giving informations to the magistrates against it, drunkenness, and prophanation of the Lord's Day.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by W. Downing in St. Bartholomew-Close, near West-Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Swearing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153530:1"/>
+            <p>A FRIENDLY DISCOURSE Concerning Profane Curſing and Swearing, Wherein is ſhewed The Heinouſneſs of thoſe Sins, and the Ne<g ref="char:EOLhyphen"/>ceſſity of private Perſons giving <hi>Informations</hi> for the Suppreſſing of them, purſuant to the late Act of PARLIAMENT. In a Familiar Conference Between Two Plain Perſons.</p>
+            <p>Made Publick for the awakening of the Con<g ref="char:EOLhyphen"/>ſciences of <hi>Common-Swearers;</hi> and the Vindication of our <hi>Religious Informers,</hi> who have been the Inſtruments of the remarkable abatement of SWEARING; and for the encouragement of all good Chriſtians, to joyn their endeavours with them for the entire ſup<g ref="char:EOLhyphen"/>preſſing it; and by giving <hi>Informations</hi> to the <hi>Magiſtrates</hi> againſt it, <hi>Drunkenneſs,</hi> and <hi>Prophanation of the Lord's-Day.</hi>
+            </p>
+            <q>
+               <p>Becauſe of Swearing, the Land Mourneth,</p>
+               <bibl>
+                  <hi>Jer. 23.10.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Let the Righteous ſmite me, it ſhall be a kindneſs.</p>
+               <bibl>
+                  <hi>Pſal. 141.5.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>W. Downing</hi> in St. <hi>Bartholomew-Cloſe,</hi> near <hi>Weſt-Smithfield,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="abstract">
+            <pb n="2" facs="tcp:153530:2"/>
+            <head>An Abſtract of the Late ACT, for the more effectual Suppreſſing Prophane <hi>Curſing</hi> and <hi>Swearing,</hi> made in the 6. &amp; 7. <hi>Gulielm.</hi> III.</head>
+            <p>THat if any Perſon, after the <hi>24 June 1695.</hi> Prophanely Swear or Curſe in the Preſence of any Iuſtice of the Peace, or head Officer of the place where the Offence is com<g ref="char:EOLhyphen"/>mitted; or ſhall be thereof Convicted by the Oath of <hi>One Witneſs,</hi> or by his own Confeſſion before ſuch Iuſtice or Of<g ref="char:EOLhyphen"/>ficer, he ſhall for every ſuch Offence pay to the uſe of the Poor of the Pariſh where the Offence is committed, if Ser<g ref="char:EOLhyphen"/>vant, Day-Labourer, Common-Souldier, or Common-Seaman, <hi>One Shilling,</hi> and every other Perſon <hi>Two Shillings,</hi> and for a <hi>Second Offence</hi> after Conviction double; and for a <hi>Third treble. 2.</hi> That upon <hi>Neglect or Refuſal to Pay,</hi> any ſuch Iuſtice or Officer ſhall ſend his Warrant to the Conſtable, Tything-Man, Church-Warden, or Overſeer of the Poor of the Pariſh where the Offence is committed, to Levy the Sum forfeited to the Vſe of the <hi>Poor of the Pariſh;</hi> and in caſe <hi>no Diſtreſs</hi> can be had, to ſet the Offender, if above the Age of Sixteen, in the Stocks by the ſpace of one hour for a ſingle Offence, and for more than one Offence, at the ſame time, two Hours; but if under that Age, unleſs he Pay forthwith, to cauſe him to be <hi>Whip'd</hi> by the Conſtable, or by the Parent, Guardian, or Maſter of the Offender, in the Preſence of the Conſtable. <hi>3.</hi> That if the Iuſtice or Officer wilfully or wittingly <hi>Omit the Performance</hi> of this Duty in the Execution of this Act, he ſhall forfeit Five Pounds, one Moiety to the Vſe of the Informer. <hi>4.</hi> That if any <hi>Suit</hi> be brought againſt any Iuſtice, Officer, or Perſon, for any thing done in purſuance of this Act, the defendant may Plead the General Iſſue, and give the ſpecial Matter in Evidence, and ſhall have trebble Coſts upon Verdict for him, or the Plaintiffs Nonſuit or Diſcontinuance. <hi>5. Proviſo</hi> that the Proof be within Ten days next after the Offence committed. <hi>6.</hi> That the Act be <hi>Read in all Churches</hi> and <hi>Publick Chappels</hi> immediately after Morning Prayer on Four Sundays, <hi>viz.</hi> next after <hi>June 24. Septemb. 29. Decemb. 25.</hi> and <hi>March 25.</hi> under pain of <hi>20.</hi> Shillings for every Omiſſion. <hi>7.</hi> That the Iuſtice or Head Officer <hi>Regiſter</hi> all Convictions at the time, and <hi>Certifie</hi> the ſame at the next General Quarter Seſſions, to be kept upon Record, to be ſeen without Fee.</p>
+         </div>
+         <div type="discourse">
+            <pb n="3" facs="tcp:153530:2"/>
+            <head>A FRIENDLY DISCOURSE CONCERNING Profane <hi>Curſing</hi> and <hi>Swearing.</hi>
+            </head>
+            <sp>
+               <speaker>S.</speaker>
+               <p>YOUR Servant Mr. <hi>M.</hi> I am glad to ſee you again this Evening, although I was much ſurpriſed at your hold An<g ref="char:EOLhyphen"/>ſwer laſt Night, when I gave you that mild Reproof for <hi>Swearing,</hi> that you ſhould ſay, <hi>You thought it little or no Sin;</hi> which is one reaſon of my waiting on you this Evening, in hopes to convince your Judgment of the contrary, if not re<g ref="char:EOLhyphen"/>form your Practice.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Sir,</hi> I am glad to ſee you; but for my part, I am of the ſame mind I was laſt Night, which is, <hi>Tho I do not think what you call Swearing to be no Sin at all;</hi> yet I don't apprehend it to be a Crime of that Hei<g ref="char:EOLhyphen"/>nouſneſs which <hi>You</hi> and ſome others ſeem to make it.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Well, I ſhall be glad that you will be ſo kind, as to ſpend this Evening with me, although you ſay, you are ſtill of the ſame mind; however, let us be plain and free, ſince we have been ſo long acquainted, and give me leave to ask you one or two Queſtions.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>With all my heart.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Do you believe the <hi>Scriptures</hi> to be true, to be the Word of God, and the Rule which we ought All to walk by, both in reſpect of our Deeds and Words, and that which we ſhall at laſt be Judged by?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Yes, ſurely, God forbid I ſhould believe other<g ref="char:EOLhyphen"/>wiſe.</p>
+            </sp>
+            <pb n="4" facs="tcp:153530:3"/>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Well then, if you believe as you ſay, it makes me ſtand amaz'd at you; for, How can you think that <hi>Swearing</hi> is <hi>but a very ſmall or inconſiderable Sin,</hi> when the Scripture is ſo plain in prohibiting and con<g ref="char:EOLhyphen"/>demning of it? for it flatly forbids our <hi>Swearing by God's Holy Name;</hi> for in the Third Commandment, <hi>The Lord will not hold him guiltleſs that taketh his Name in vain:</hi> And our Saviour ſaith in the fifth of St. <hi>Matthew, Swear not at all, neither by Heaven, for it is God's Throne; neither by the Earth, for it is his Footſtoo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi> And in the ſame chapter it is ſaid, <hi>But let your Com<g ref="char:EOLhyphen"/>munication be Yea, yea; Nay, nay: for whatſoever, are more than theſe, cometh of Evil:</hi> And again, St. <hi>James</hi> 5.12. <hi>Above all things, my Brethren, ſwear not, neither by Heaven, neither by the Earth, neither by any other Oath; but let your yea, be yea; and your nay, nay; lest ye fall into Condemnation:</hi> And in <hi>Jeremiah</hi> 23.10. <hi>Becauſe of Swearing the Land mourneth:</hi> And in <hi>Hoſea</hi> 4.2. <hi>Swearing</hi> has the van of the moſt crying and provoking Sins: And the Prophet <hi>David</hi> makes it a ſymptom of Hatred againſt God, when in <hi>Pſalm</hi> 139.20. he ſays, <hi>Thine Enemies take thy Name in vain.</hi> Theſe Texts are plain to be underſtood, and I might quote others of the ſame nature, but I hope theſe being well and ſeriouſly conſidered will convince you that <hi>Swearing</hi> is a Sin of no low degree.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>What, I perceive you are of the <hi>Quakers</hi> Prin<g ref="char:EOLhyphen"/>ciple, and conclude, that 'tis not lawful to <hi>Swear at all.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>You utterly miſtake me. I do believe it's not only lawful, but a Chriſtian's Duty to Swear; that is, <hi>to make an Appeal to God of the Truth of what he affirms, and the Sincerity of what he promiſes, when law<g ref="char:EOLhyphen"/>fully by the Magiſtrate call'd thereunto;</hi> for the Scrip<g ref="char:EOLhyphen"/>ture gives not only countenance, but commandment to this Duty, <hi>Levit.</hi> 19.12. and <hi>Deut.</hi> 6.13. and chap. 10. ver. 20. and <hi>Heb.</hi> 6.16. But it is againſt the Sin of <hi>Common Swearing,</hi> whereby the Name of
+<pb n="5" facs="tcp:153530:3"/>GOD is greatly diſhonoured, and the Rules of the Scriptures impiouſly violated, and our Holy Religion contemn'd and diſgrac'd; 'tis againſt <hi>This</hi> that my Diſcourſe is levell'd, and 'tis againſt <hi>This</hi> that I pro<g ref="char:EOLhyphen"/>duce theſe Scriptures.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Well, I do believe it is a <hi>Sin,</hi> but I hope 'tis no very great One, by reaſon there is ſo great a number of <hi>Swearers,</hi> and moſt of them think it a little or no Sin.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Alas! Mr. <hi>M.</hi> How can that Sin be little, that is committed againſt an Infinite Majeſty? How can that affront be ſmall, that is levelled againſt Him, who dazles the Eyes of Angels? If it were not againſt the Law of God, it could not be a Sin: But when 'tis ſo expreſsly forbidden, How can you, or they, or any Perſon whatever, conclude it <hi>to be little or no Sin?</hi>
+               </p>
+               <p>But admit that the Guilt of <hi>ſingle Oaths</hi> were no leſs venial, than is pretended, yet certainly, when in moſt Swearers, as well as in your ſelf, the frequency of <hi>Swearing</hi> is ſo great, that in one day they are guilty of many ſcores of Oaths; theſe Sins not growing ſin<g ref="char:EOLhyphen"/>gle, as Apples; but like Grapes, in cluſters, their Multitude cannot but render them conſiderable; and you may conſider, (ſince you are a <hi>Seaman</hi>) that a Thouſand holes may as well ſink a Ship, as ſome great Leaks beſides, theſe <hi>Common-Swearers</hi> are not only ruinous to themſelves, but have a deſtructive Influ<g ref="char:EOLhyphen"/>ence upon the Nation that ſuffers them; for what the Prophet relates of <hi>Judah,</hi> I wiſh were not now ful<g ref="char:EOLhyphen"/>filled of <hi>England; Becauſe of Swearing the Land mourns,</hi> Jeremiah 23.10.</p>
+               <p>But farther conſider, The awfulneſs of the Divine Majeſty, who, in order that a Fear of his Wrath, and a Reverence of his <hi>Holineſs, Power,</hi> and <hi>Juſtice,</hi> might be kept always freſh upon us, has commanded us ne<g ref="char:EOLhyphen"/>ver to uſe <hi>his Name in Vain;</hi> i. e. never ſo much as to pronounce thoſe <hi>Holy Words</hi> (whereby God has been pleaſed to ſtile Himſelf, and to communicate
+<pb n="6" facs="tcp:153530:4"/>the Knowledge of Himſelf unto his Creatures) idlely, vainly, and without the greateſt Reverence: There<g ref="char:EOLhyphen"/>fore they who prophane the Name of God, (as all <hi>Common Swearers</hi> in a moſt grievous manner do) do not only break a Poſitive Law, but teſtifie, that they have no <hi>Fear,</hi> no <hi>holy Dread and reverent Awe of God before their Eyes;</hi> and, therefore, as I never knew, ſo it's utterly impoſſible that a <hi>Common Swearer</hi> ſhould be a pious Man; but, on the contrary, One that breaks forth into any other Sin, whither <hi>Pride,</hi> or <hi>Paſſion,</hi> or <hi>Last,</hi> or <hi>Profit,</hi> or <hi>Humour</hi> calls him. He that caſts off the Reverence of God, (as every <hi>Prophane Swearer</hi> does) can never conſcientiouſly keep any of his Commandments. Conſider therefore, 'tis no <hi>ſingle Sin,</hi> but ſuch an one as is produced by a Fear<g ref="char:EOLhyphen"/>leſsneſs of God, and attended by any other Vice, which the Corruption of the Offender is moſt in<g ref="char:EOLhyphen"/>clin'd unto.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I do confeſs I believe there is ſomething in what you have ſaid, and that 'tis a greater Sin than I took it for before; eſpecially where Men Swear at every Word; but I only Swear when I am angry, or in a paſſion, and I think no harm in it then.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>How Man, think no harm in it, by reaſon you are angry, or in a paſſion! Surely the Sin is ſo much the greater, if you conſider the Apoſtle's Command, <hi>Epheſ.</hi> 4.26. <hi>Be ye angry, and ſin not:</hi> beſides, this is but to excuſe one Fault with another; to make a leſſer Sin the Apology for the Commiſſion of a greater. But, alas! how ſtrangely induſtrious are Men to de<g ref="char:EOLhyphen"/>ceive themſelves! But, remember, if we muſt anſwer for every idle Word, (as our Lord himſelf aſſures us we muſt) then will paſſionate Words add to our Account; but Swearing in Paſſion, (as if we would quarrel with our Creatour) this will weigh down the Soul (without a true Repentance) to the burn<g ref="char:EOLhyphen"/>ing <hi>Tophet,</hi> to the Regions of Eternal Horror, pre<g ref="char:EOLhyphen"/>pared for the Devil and his Angels.</p>
+            </sp>
+            <pb n="7" facs="tcp:153530:4"/>
+            <sp>
+               <speaker>M.</speaker>
+               <p>How! be not ſo cenſorious, I hope I ſhall not be damn'd for an <hi>haſty Oath.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Sir,</hi> Bear with me if I tell you and all com<g ref="char:EOLhyphen"/>mon Swearers your Doom, which will as aſſuredly as the Word of God is true, be paſt upon you here<g ref="char:EOLhyphen"/>after, at the great and terrible Day, (without a ſincere Repentance and Reformation prevent it) you, and all the Tribe of <hi>Common Curſers</hi> and <hi>Swearers,</hi> who pro<g ref="char:EOLhyphen"/>phane the Name of our Great and Holy God, will make up your account to all Eternity in the Lake that Burns with Fine and Brimſtone; for Heaven is a place too good for ſuch who daily affront the Majeſty of its King, by impious, raſh, careleſs and heedleſs <hi>Oaths</hi> and <hi>Curſes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Sir,</hi> You ſtartle me, I hope my Caſe is not ſo had as you ſeem to make it.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Pray Neighbour conſider, 'tis not I that make your Caſe either better or worſe, 'tis the Word of God, 'tis the Holy Bible which you profeſs to believe: And if you behold your ſelf in that true Glaſs, <hi>That</hi> will make you ſenſible, that you are altogether as de<g ref="char:EOLhyphen"/>form'd as I repreſent you. And as to what you gene<g ref="char:EOLhyphen"/>rally urge, that your Provocations are ſuch, that you cannot avoid it; The Excuſe is utterly falſe and ſin<g ref="char:EOLhyphen"/>ful; for would you but give ſo much Money to the Poor, for every <hi>Oath</hi> you Swear, as the Law directs in that Act againſt <hi>Curſing</hi> and <hi>Swearing,</hi> I do believe it would not belong before you'd conquer it, although at preſent you think you cannot avoid it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>But there are others that <hi>Swear</hi> as much as I, and I ſeldom ſee them reprehended; and yet you were ſharp upon me for <hi>Swearing</hi> laſt night but twice or thrice.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>How ſtrangely you anſwer! <hi>Am I therefore your Enemy, becauſe I tell you the Truth?</hi> Your Excuſe is, juſt as if in an Hoſpital a deſperate Patient ſhould ſay to his Phyſician, Why am I ſo much the ſubject
+<pb n="8" facs="tcp:153530:5"/>of your Care, when there are ſo many others who are as bad, if not worſe? If you complain of being reprov'd, you complain of being car'd for: And remember by the way, <hi>As one may be far from Health, and yet not ſo Sick as gaſping People; ſo it is but a very ſorry Goodneſs, not to be as bad as the worst;</hi> and I hope my Reproof will have a good Effect upon you, for I am ſure I deſigned it for your Good.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I wiſh it may be for my Good; but, after all, I only Swear to the Truth, I ſcorn to Swear Falſly; and what I know to be True, I think I may Swear to without any harm.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>This ſeems to be the very Sin of the <hi>Jews,</hi> whom our Saviour reproves in the Fifth of <hi>Matthew.</hi> They thought they might Swear, (as I have been inform'd) ſo they did but Swear to the Truth, in their common Converſation; and this was founded on that falſe gloſs of the Elders, <hi>Ye have heard that it hath been ſaid by them of old times, Thou ſhalt not forſwear thy ſelf.</hi> — Yet, however, leſt they ſhould prophane the Name of GOD by <hi>Common Swearing,</hi> they invented a ſort of new and inferior <hi>Oaths;</hi> ſuch as, <hi>by Heaven,</hi> and <hi>by the Earth,</hi> and <hi>by the City of Jeruſalem,</hi> the Metropolis of the Kingdom. Much like to the idle and ſinful <hi>Oaths</hi> of too many vain and ignorant Chriſtians, who will Swear, <hi>by Heaven,</hi> and <hi>by the Light,</hi> and <hi>by our Lady; by the Maſs, by their Faith and their Truth.</hi> But now our Saviour tells the <hi>Jews,</hi> and in telling them, He tells us, that all ſuch <hi>vain Oaths</hi> are ſinful, ſince all <hi>Oaths</hi> muſt terminate in GOD; and that our Communication ſhould be plain and innocent; <hi>Yea, yea; and Nay, nay; for whatſoever is more cometh of Evil.</hi> But now you, <hi>Neighbour,</hi> exceed far the Impiety of the <hi>Jews;</hi> for you make no Conſcience of Prophaning the Name of the Great GOD by your execrable <hi>Oaths,</hi> which Name ought never once to be ſpoken without the
+<pb n="9" facs="tcp:153530:5"/>higheſt Reſpect and Reverence. Therefore I beſeech you to conſider the Greatneſs of your Sin, which is alſo augmented very much by this, that there is in it no Temptation either of <hi>Profit</hi> or <hi>Pleaſure</hi> to allure you to it; but ſhews that you are willing to affront God, and ſerve the Devil altogether <hi>Gratis;</hi> and that you are wicked, only for the ſake of being ſo.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>But if I don't Swear, the Incredulity of Men is ſuch, they won't believe me.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Fie for ſhame, Man, don't ſo wretchedly pro<g ref="char:EOLhyphen"/>claim your own Diſhoneſty, and want of Credit, for no ſober Man, no honeſt, good and virtuous Man, will ever believe you the ſooner for an <hi>Oath,</hi> but the ſooner queſtion what you affirm; for, How can I apprehend that that Man makes conſcience of telling me a Lye, who makes no conſcience of Prophaning the Name of God? and, indeed, we ſhall never find <hi>Common Swearers</hi> great Friends to Truth, but always the contrary; for, How often do we hear ſuch Men ſwear to the Truth of a lying Jeſt, when even they them<g ref="char:EOLhyphen"/>ſelves and the Hearers alſo know 'tis a Falſhood?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>God forgive me, I fear I have been ſometimes guilty of that.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Why then conſider the danger of this Sin: And that you may do it effectually, remember this Truth, <hi>That God never will nor can forgive without Repentance and Reformation.</hi> But ſuppoſing it true, (as it's altogether falſe) that Men will not believe you without this Sin, and that by it you purchaſe Belief; Credit is better wanted, than bought at ſo dear a rate, as <hi>Sin;</hi> and you make no better a Bar<g ref="char:EOLhyphen"/>gain than the Man in the Goſpel, who loſt the King<g ref="char:EOLhyphen"/>dom of Heaven for ſome Stores in his Barns.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Ay, but 'tis ſo cuſtomary for Men of my Profeſſion, (whoſe Imployment lies at Sea) that 'tis almoſt impoſſible to avoid it, eſpecially under ſuch great Provocations, and where few or none make Conſcience of it.</p>
+            </sp>
+            <pb n="10" facs="tcp:153530:6"/>
+            <sp>
+               <speaker>S.</speaker>
+               <lg>
+                  <l>
+                     <hi>Weak is the Excuſe that is on Cuſtom built,</hi>
+                  </l>
+                  <l>
+                     <hi>For th' <g ref="char:V">Ʋ</g>ſe of Sinning leſſens not the Guilt.</hi>
+                  </l>
+               </lg>
+               <p>And Cuſtom in Evil rather increaſes, than contracts the Fault, therefore you muſt not plead for it, but ſtrive in good earneſt againſt it, and deſire the Almighty to aſſiſt you; <hi>Reſist the Devil, and he will flee from you.</hi> And as you would avoid hereafter the Puniſhment of thoſe Sinners againſt their own Souls, when they ſhall be condemn'd to Eternal Torments; ſo now avoid the Sins which they are guilty of, which will aſſuredly lead to that place of Vengeance. And remember farther, that no Provocation can be enough to atone for a Sin.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Indeed I cannot well reply: I believe 'tis a Sin, and a great one too; But yet if we don't ſometimes <hi>Swear,</hi> our Men will never obey our Command.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Alas, my Friend, 'tis a ſad Anſwer you make; for, believe me, it is but an extravagant way of teach<g ref="char:EOLhyphen"/>ing our Inferiors to pay us their Duties, to teach them to diſobey the Command of their Superiors by our own Example; and to lead them the way to deſpiſe the Injunctions of the moſt adored Power, to whom we confeſs to owe an impartial Obedience upon the higheſt Conſiderations.</p>
+               <p>But that there are ways enough to make thoſe under your Command regard what you ſay, without your breaking the Law of God to induce them to it, ap<g ref="char:EOLhyphen"/>pears from what I have been credibly inform'd by ſober Perſons; <hi>That there was a time when our</hi> Engliſh <hi>Naval Force was formidable to all our Neighbouring Na<g ref="char:EOLhyphen"/>tions, when we were as terrible to all that oppos'd us, as if Victory had lodg'd her ſelf in our Sails.</hi> And then not ſo much as an <hi>Oath</hi> or <hi>Curſe</hi> was heard in our whole Fleet. I was told by a Perſon who deſerves Credit, and does alſo obtain it, (tho he does not Swear) who was an Officer in thoſe days, <hi>That tho they were exactly careful to puniſh this Sin in the Ship in which he was con<g ref="char:EOLhyphen"/>cern'd,
+<pb n="11" facs="tcp:153530:6"/>yet for ſeveral Months none was puniſh'd, becauſe there was not a Man found Guilty.</hi> But now, ſince we have alter'd our Meaſures, and have choſen to become terrible to our Men, by moſt prodigious and new<g ref="char:EOLhyphen"/>invented <hi>Oaths</hi> and <hi>Curſes,</hi> we no longer become a Terror to our Foes; God grant they may not prove ſo to us. And this, I think, proves we may Com<g ref="char:EOLhyphen"/>mand without <hi>Curſing</hi> and <hi>Swearing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Hold, hold, hold, why, what you are arguing for the times of Rebellion; I little thought you had approved of thoſe Times, or any of their doings.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>I thought you had known me too well ever to have ſuggeſted ſuch a thought; As I always did, ſo I always ſhall, love Monarchy. But yet, as ſomething was found good even in the Houſe of <hi>Jeroboam,</hi> ſo this ab<g ref="char:EOLhyphen"/>ſtinence from this <hi>accurſed Sin,</hi> in that Day, and under that Government, muſt be acknowledged, and alſo commended; and the contrary in us, I am afraid, muſt be own'd, and I am ſure will be both here and hereafter condemn'd. And I will not be aſham'd to confeſs my Thoughts, <hi>That till we are Reform'd, we ſhall never ariſe to that Glory and Greatneſs which our Fore-fathers were by the Almighty Blest withall.</hi> But this I urge only by the way: And whatever we now are, or hereafter ſhall be, I am ſure this Sin ſhall not eſcape unpuniſhed.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>God grant we may all amend, I believe it's time: But yet, notwithſtanding all you have ſaid, methinks it looks ſomething like a Gentleman, and a Man of Courage, now and then to grace our Speech with an <hi>Oath.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Why, Is <hi>Swearing</hi> the Mark of a Gentle<g ref="char:EOLhyphen"/>man! which is indeed one of the greateſt ſtains to his Reputation! at this rate every Porter and Carman may commence Gentleman when he pleaſes. And the greateſt Coward may Swear as valiantly as the moſt fearleſs and undaunted General. For my part, I bleſs
+<pb n="12" facs="tcp:153530:7"/>God, I am not ambitious of thoſe Badges either of Courage or Gentility, which our Holy Religion de<g ref="char:EOLhyphen"/>clares to be the Signs of Reprobation. But, indeed, this is an Affront to all the beſt of our truly Coura<g ref="char:EOLhyphen"/>gious and well-bred Gentlemen, who are ſo far from being tainted with this Sin, that they have made a Law againſt it, that it might receive a Puniſhment here, by a National Sanction; as well as 'twill do hereafter, by the Judgment of God.</p>
+               <p>And tho there are ſome <hi>degenerate Gentlemen,</hi> who do ſignalize their Impieties by this abominable Sin; yet the Better, the more Judicious, the more Valiant and truly Honourable hate it, and avoid it. And this, I thank God, I can ſpeak by the intimate knowledge I have had the Honour to have of many worthy Perſons, both for Families and Eſtates, who are free from this Sin. I liv'd in the Family of a very worthy Perſon, of a large Fortune, for three years, and in all that time I never heard him once either <hi>Curſe</hi> or <hi>Swear;</hi> and I hope our Nation has many more ſuch. And ſince we have a Law for the Puniſh<g ref="char:EOLhyphen"/>ment of this Sin, I heartily wiſh it was more carefully put in Execution, and that every <hi>Magiſtrate</hi> and <hi>Officer</hi> would diſcharge their Duty, in the effectual Puniſhing and Suppreſſing of this Sin; and that all other Men would be induſtrious to inform the Magiſtrate of it, as you may expect I will be, if ever I hear you <hi>Swear</hi> or <hi>Curſe</hi> again, that you may pay the Penalty the Law directs, except you leave off <hi>Swearing</hi> without it; and I think you will have reaſon to thank me for it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I muſt confeſs I have reaſon, as I told you be<g ref="char:EOLhyphen"/>fore, to return you thanks for taking ſo much pains with me; but ſtill I hope you will not turn <hi>Informer</hi> at laſt: But perhaps you are become one of this new Gang of <hi>Regulators,</hi> one of thoſe they in deriſion call <hi>Soul-Savers.</hi>
+               </p>
+            </sp>
+            <pb n="13" facs="tcp:153530:7"/>
+            <sp>
+               <speaker>S.</speaker>
+               <p>I am not at all ſolicitous what Names the Agents of Hell do brand us withall; for I do openly acknowledge my ſelf to be one of that Number who have engag'd themſelves to endeavour to put a Check to the Rampant Vices of our ſinful Age; ſuch as <hi>Curſing, Swearing, Sabbath-breaking, Drun<g ref="char:EOLhyphen"/>kenneſs,</hi> and <hi>Uncleanneſs,</hi> and the like. And how odious ſoever Men may endeavour to make Us, by loading us with Nick-names, I am ſure both the Law of God and the Law of our Nation do incourage and commend detecting of notorious Offenders to the <hi>Magiſtrate,</hi> that they may receive a legal Reproof and Puniſhment for their Sin: And this is ſo far from <hi>Hatred;</hi> that 'tis <hi>Charity,</hi> and perhaps the <hi>Greateſt</hi> that can be ſhewn to ſuch Perſons Souls.</p>
+               <p>And as to what you urge of turning <hi>Informer,</hi> it's juſt as if one Commander at Sea ſhould tell another, that he is a Roguiſh Informer, for giving Information how he may eſcape the <hi>Privateers</hi> or <hi>Pyrates</hi> that are in ſuch a place waiting for his coming, when at the ſame time he did not know of it before, and by the Infor<g ref="char:EOLhyphen"/>mation he and his Cargo is ſaved from being taken by thoſe <hi>Pyrates</hi> and <hi>Robbers:</hi> And as for your hoping I will not turn <hi>Informer</hi> againſt <hi>Swearers,</hi> I hope I ſhall love Almighty God better, and my Neighbour and my ſelf too, than to take your Advice in this caſe, when it is my Duty, and an act of Charity, and the Duty of all Men, to turn <hi>Informers:</hi> And 'twas a ſtanding Rule in the <hi>Jewiſh</hi> Nation, That ſuch as heard or ſaw the Fact were to be <hi>Informers</hi> and <hi>Witneſſes</hi> againſt the Offender, although it were a Friend or a Neighbour; nay, they were to be <hi>Executioners</hi> too, as we read, <hi>Deut.</hi> 17.7. <hi>The hands of the Witneſſes ſhall be first upon him to put him to Death, and afterwards the hands of all the People.</hi> And in <hi>Levit.</hi> 24.11. we find the People that heard the <hi>Blaſphemy</hi> and <hi>Curſes</hi> of the Son of <hi>Shelomith,</hi> carried him before the <hi>Magiſtrate;</hi> They
+<pb n="14" facs="tcp:153530:8"/>told <hi>Moſes</hi> of it, and, ver. 14. he gives Command to have him puniſh'd, and <hi>all that heard him laid their hands upon his head, and let all the Congregation ſtone him.</hi>
+               </p>
+               <p>Beſides, I and all Mankind are commanded to diſ<g ref="char:EOLhyphen"/>charge this Charitable Office; <hi>Levit.</hi> 19.17. <hi>Thou ſhalt in any ways rebuke thy Neighbour, and not ſuffer Sin upon him.</hi> So that I am diligently to purſue all proper means to pull the <hi>Swearer</hi> out of the Fire; and there is a Neceſſity of appealing to the <hi>Miniſter,</hi> to the <hi>Magiſtrate,</hi> to the <hi>Church,</hi> and to the <hi>Seat of Juſtice,</hi> that all fit Spiritual Cenſures and Temporal Chaſtiſe<g ref="char:EOLhyphen"/>ments may be applyed to him here in time, that his Soul may be ſaved, and that others may hear and fear, that we may put away the Evil from the whole Body of the People.</p>
+               <p>Again, we pray <hi>That Magiſtrates may miniſter Ju<g ref="char:EOLhyphen"/>ſtice in the Puniſhment of Wickedneſs and Vice;</hi> and, How can we expect our Prayers to be anſwer'd, ex<g ref="char:EOLhyphen"/>cept we give Information to <hi>Them,</hi> ſince the Offence is ſeldom committed in the preſence of the Magiſtrate? ſo that <hi>Magiſtrates</hi> muſt have <hi>Information</hi> from thoſe that hear or ſee the Offence committed: And I hope I have convinced you of the Neceſſity as well as the Duty of it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I muſt confeſs that I am almoſt convinced that the <hi>Informer</hi> does no more than the diſcharge of his Duty; yet I ſhould have taken it ill of you, if you had informed againſt me, <hi>You</hi> being my particular Friend, and ſo long acquainted with me.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>How can you take that ill, that is deſigned for your good, and when a Man does no more than the diſ<g ref="char:EOLhyphen"/>charge of his Duty, and I had almoſt ſaid, the greateſt Kindneſs he can do you: For if <hi>Good Laws</hi> be neceſſary, if the <hi>Execution</hi> of them be neceſſary, if <hi>Magiſtrates</hi> be neceſſary for <hi>That,</hi> then muſt alſo the <hi>Knowledge</hi> of the Offences committed againſt the Laws be neceſſary to the <hi>Magiſtrate;</hi> and becauſe they are ſeldom com<g ref="char:EOLhyphen"/>mitted in the preſence of the Magiſtrate, due <hi>Infor<g ref="char:EOLhyphen"/>mation</hi>
+                  <pb n="15" facs="tcp:153530:8"/>by thoſe who have ſufficient knowledge of any ſuch Offences is likewiſe neceſſary, and the very Foundation upon which the <hi>due Execution</hi> of the <hi>Laws</hi> doth depend. From whence it doth plainly follow, that if Wickedneſs doth abound in a Nation, as we ſee and hear this Sin of <hi>Curſing</hi> and <hi>Swearing</hi> doth; by reaſon of which, I heartily wiſh and pray, that that <hi>Prophecy</hi> is not now fulfilled of <hi>England,</hi> which was once of <hi>Judah, Jer.</hi> 23.10. for this Wickedneſs ſo much abounds in this Nation, that we have reaſon to pray that we are not involv'd in a National Guilt for not faithfully diſcharging our Duty in the <hi>Cor<g ref="char:EOLhyphen"/>rection</hi> and <hi>Reformation</hi> of it; nay, even if it be to a Friend or a Neighbour, if we have ſufficient knowledge of the Offence, let us give due <hi>Information</hi> to ſome pro<g ref="char:EOLhyphen"/>per Magiſtrate, unleſs the Offender will otherwiſe be brought to do what is requiſite: And, as I ſhew'd be<g ref="char:EOLhyphen"/>fore, this is a <hi>Duty</hi> confirmed by the Authority of Sa<g ref="char:EOLhyphen"/>cred Scripture, in thoſe Texts I have juſt now quoted to you, and I might quote many more to that purpoſe; therefore I cannot ſee how you, or any body elſe, can take it ill that are Guilty of this <hi>Crying Sin,</hi> if I, or Others, ſhould Inform the <hi>Magiſtrate</hi> of it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I muſt confeſs I am convinc'd I cannot take it ill, and I think there is a Neceſſity in this wicked Age for Men to do it; and I heartily pray, that if ever I <hi>Swear</hi> again, I may be puniſh'd for it; and as you have been an Inſtrument, under God, to con<g ref="char:EOLhyphen"/>vince me of this <hi>Sin,</hi> as well as of the Neceſſity of <hi>Informing</hi> againſt it, I ſhall ever prize your Friendſhip, and think my ſelf happy in ſo good an Acquaintance; and I hope you will pardon the Trouble I have put you to in anſwering my rude Arguments.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>I cannot think that a Trouble, which I do for the Good of my Friend; and I muſt confeſs you make my Heart rejoice, to hear you ſay, you are convinced of the <hi>Sin,</hi> as well as the Ne<g ref="char:EOLhyphen"/>ceſſity of <hi>Informing;</hi> for without <hi>Informations</hi> to <hi>Magiſtrates,</hi> this <hi>Crying Sin</hi> will hardly be ſtopp'd; and I wiſh good Men would be as openly Pious and Vertuous, and reſolutely bent in the Puniſhing of Vice, as wicked Men are openly Vicious and Impudent in Committing of it; and as they are not aſhamed to <hi>Swear,</hi> and prophane the Name of GOD, Why ſhould I be
+<pb n="16" facs="tcp:153530:9"/>aſhamed to <hi>Inform</hi> the <hi>Magiſtrate</hi> of it? and as they take pains to get to Hell, let us be at ſome pains to get to Heaven: Let us declare our ſelves for God firſt, by living good Lives our ſelves; and, next, by incouraging others to do the ſame; and where we meet with thoſe that are ſo far Servants to the Devil, as to break the Laws of God and the Nation, let us ſhew our ſelves to be the Servants of our God, by vindicating his <hi>Name,</hi> his <hi>Laws,</hi> and the <hi>wholſome Laws of the Nation;</hi> that by our <hi>Informations to the Ma<g ref="char:EOLhyphen"/>giſtrate,</hi> the Offender may be brought to ſee the Greatneſs of his <hi>Sin,</hi> and by that Puniſhment and Shame brought to <hi>Repentance:</hi> And putting the <hi>Laws</hi> in <hi>Execution</hi> will be one great means to mend the World, and without this it will hardly be done: It is not <hi>good Books,</hi> nor <hi>good Preaching,</hi> will reclaim ſuch prophane and profligate Wretches, as the <hi>Swearers,</hi> and <hi>Drunkards,</hi> and <hi>Sabbath-breakers</hi> are; for ſuch Perſons will ſeldom or never read good Books, nor hear Sermons, nor accept of Coun<g ref="char:EOLhyphen"/>ſel and Advice: They ſeem to be out of the reach of all other methods, except that of <hi>Information</hi> to the <hi>Magiſtrate.</hi>
+               </p>
+               <p>But when <hi>Magiſtrates, Conſtables,</hi> and <hi>Church-Wardens,</hi> who are under ſpecial Obligations by their <hi>Oath,</hi> reſolve to keep them in good earneſt, and all good Chriſtians ingage in it, to puniſh and frown Prophaneneſs out of Countenance, then the World will mend, if not grow devout, yet at leaſt grow modeſter and civiller towards Religion, when good Men give Evidence that they do believe in good earneſt, by Puniſhing the Prophane<g ref="char:EOLhyphen"/>neſs of all open Offenders, according as the <hi>Laws</hi> direct, and for which very end the very Laws were made: And we ſhould condemn the Wiſdom of our Fore-fathers, as well as our own Parliament, if we did not do it; for if <hi>Good Laws</hi> be not put in <hi>Execution,</hi> they had better never been made, then not to have them Executed; for, as the Violation of <hi>Laws,</hi> is a Contempt of <hi>Authority;</hi> ſo the Neglect of the <hi>Execution,</hi> is a Proſtitution of it, expoſing the <hi>Government,</hi> and tending to the Diſſolution of it, and to habituate and harden the People the more in Wicked<g ref="char:EOLhyphen"/>neſs and Diſobedience; which God forbid in this Chriſtian Na<g ref="char:EOLhyphen"/>tion, where all Men ought to ingage in the Prevention of it, as I hope you will, now you ſay you are convinced of it.</p>
+               <p>But, Sir, leſt I ſhould give you an Occaſion to ſay, I have paid you too long a Viſit, I ſhall only remind you ſeriouſly to conſider what I have ſaid, and apply it to your own Heart and Soul, as you are going to Bed, and when you are in it, and I ſhall pray it may be to God's Glory. So wiſhing you and all your Family a good Night, I remain</p>
+            </sp>
+            <closer>
+               <signed>
+                  <hi>Your moſt Faithful Friend, and Humble Servant, <hi>H. S.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
